@@ -8,8 +8,8 @@ const uname =''
 const transporter = nodemailer.createTransport({
     service:'gmail',
     auth:{
-        user:"0707dhanush123@gmail.com",
-        pass:"smwipanrvizlkuub"
+        user:"Saicharanavaluru2004@gmail.com",
+        pass:"Saicharan160."
     }
 })
 
@@ -23,7 +23,7 @@ app.use(express.json());
 const db = mysql.createConnection({
  host: 'localhost',
  user: 'root',
- password: '9943060731',
+ password: 'Saicharan160.',
  database: 'login'
 });
 
